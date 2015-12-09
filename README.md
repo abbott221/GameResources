@@ -23,10 +23,13 @@ The purpose of these code samples is to provide an introduction to LibGDX and wh
 
 Approximately 200 lines and 2 files.
 
+Purpose: a template project or "Hello, world!"
+
 ![Pong](https://raw.githubusercontent.com/abbott221/GameResources/master/Images/PongImage.PNG)
 
 ### CloudScape
 
 Several thousand lines and a few dozen files.
+Purpose: free graphics and assets (which I found on opengameart), possibly some examples of how to do stuff, a fairly large project to poke around in
 
 ![CloudScape](https://raw.githubusercontent.com/abbott221/GameResources/master/Images/CloudScapeImage.PNG)
