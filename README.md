@@ -22,6 +22,7 @@ Purpose: a template project or "Hello, world!"
 ### CloudScape
 
 Several thousand lines and a few dozen files.
+
 Purpose: free graphics and assets (which I found on opengameart), possibly some examples of how to do stuff, a fairly large project to poke around in
 
 ![CloudScape](https://raw.githubusercontent.com/abbott221/GameResources/master/Images/CloudScapeImage.PNG)
